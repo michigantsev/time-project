@@ -1,0 +1,18 @@
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\bin\Debug\L9.exe.config
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\bin\Debug\L9.exe
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\bin\Debug\L9.pdb
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\obj\Debug\L9.csprojResolveAssemblyReference.cache
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\obj\Debug\L9.exe
+C:\Users\сюда нажимать\Desktop\ДОМАХА\C#Proekti\L9\L9\obj\Debug\L9.pdb
+C:\Users\LocalUser\Desktop\L9\L9\bin\Debug\L9.exe.config
+C:\Users\LocalUser\Desktop\L9\L9\obj\Debug\L9.exe
+C:\Users\LocalUser\Desktop\L9\L9\obj\Debug\L9.pdb
+C:\Users\LocalUser\Desktop\L9\L9\bin\Debug\L9.exe
+C:\Users\LocalUser\Desktop\L9\L9\bin\Debug\L9.pdb
+C:\Users\LocalUser\Desktop\L9\L9\obj\Debug\L9.csprojResolveAssemblyReference.cache
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\bin\Debug\L9.exe.config
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\bin\Debug\L9.exe
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\bin\Debug\L9.pdb
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\obj\Debug\L9.csprojAssemblyReference.cache
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\obj\Debug\L9.exe
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\L9\obj\Debug\L9.pdb

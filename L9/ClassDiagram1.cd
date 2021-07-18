@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L9.Time">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAhBAAAABQAAAARAEAIAAAAAAEQAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L9.TimeArray">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAACIAAAAAQgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L9.Program">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

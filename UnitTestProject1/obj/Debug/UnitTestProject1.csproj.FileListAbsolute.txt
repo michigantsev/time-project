@@ -1,0 +1,20 @@
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\L9.exe
+C:\Users\LocalUser\Desktop\L9\UnitTestProject1\bin\Debug\L9.pdb
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\L9.exe
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\L9.pdb
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\L9.exe.config
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\сюда нажимать\Desktop\Домашняя работа\C#Proekti\das\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
